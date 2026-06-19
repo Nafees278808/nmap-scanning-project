@@ -1,0 +1,14 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+# Nmap scan results
+results/*.xml
+results/*.txt
+# Compiled binaries
+*.out
+*.exe
+# OS files
+.DS_Store
+Thumbs.db
+
